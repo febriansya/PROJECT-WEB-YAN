@@ -100,7 +100,7 @@ class dashboard extends CI_Controller
     public function cari()
     {
 
-        
+
 
         $keywoard = $this->input->post('cari');
 
